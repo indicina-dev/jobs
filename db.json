@@ -1,7 +1,5 @@
 {
-    "current_page": 1,
-    "total": 200,
-    "data": [
+    "jobs": [
       {
         "id": 761,
         "title": "Sales Engineer",
